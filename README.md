@@ -1,1 +1,1 @@
-# My-SQL-Practice-1
+#SQL practice project focused on aggregate and text functions using a Products dataset. Covers COUNT, SUM, AVG, MIN, MAX, GROUP BY, HAVING, ORDER BY, DISTINCT, UPPER, LOWER, TRIM, LENGTH, SUBSTRING, CONCAT, REPLACE, and LIKE. Demonstrates practical SQL skills for data analysis, aggregation, filtering, text manipulation, and data cleaning.
